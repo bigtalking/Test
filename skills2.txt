@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+Js
+CSS
+HTML
+MySQl
+Python
